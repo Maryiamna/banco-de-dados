@@ -1,0 +1,7 @@
+Princípo dos Projetos
+
+- npm init -y: iniciar um projeto no terminal
+- criar 'app.js'
+- npm install: para instalar as dependências (mysql2; express, body-parser)
+
+- executar o arquivo no terminal: node app.js
